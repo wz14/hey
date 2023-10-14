@@ -40,7 +40,7 @@ export const SNAPSHOT_URL = IS_MAINNET
   : TESTNET_SNAPSHOT_URL;
 
 // Application
-export const APP_NAME = 'Hey';
+export const APP_NAME = 'Hey4All';
 export const DESCRIPTION = `${APP_NAME}.xyz is a decentralized, and permissionless social media app built with Lens Protocol 🌿`;
 export const APP_VERSION = packageJson.version;
 export const BRAND_COLOR = '#FB3A5D';

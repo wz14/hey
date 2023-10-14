@@ -6,6 +6,7 @@
   "scripts": {
     "build": "turbo run build --parallel",
     "codegen": "turbo run codegen --parallel",
+    "local_test": "turbo run dev --parallel",
     "dev": "turbo run dev --parallel",
     "i18n:extract": "turbo run extract",
     "lint": "turbo run lint --parallel",
